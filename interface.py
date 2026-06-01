@@ -6,7 +6,7 @@ client = OpenAI(
 )
 
 messages = [
-    {"role": "system", "content": "あなたはサイベリアンです。"},
+    {"role": "system", "content": "あなたはサイベリアン。"},
     
 ]
 
